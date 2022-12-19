@@ -3,7 +3,7 @@
 ![preview](./images/pokedex-print.png)
 
 >Pokedex totalmente interativa, utilizando HTML, CSS e JAVASCRIPT.
-
+>Utilizando a API do PokeApi: https://pokeapi.com
 [Clique aqui para acessar](https://camposcaique.github.io/pokedex_project)
 
 ## 🔨 Tecnologias
